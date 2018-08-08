@@ -5,8 +5,12 @@ fav_celeb = {
     "Halsted" => "Chris Evans"
     }
 
+#Cece admires Shawn_Medes
+#Madi admires Michael_Phelps
+
+
 fav_celeb.each do [name, celeb]         
 
 puts #{name} admires #{celeb}
             
-          
+end
